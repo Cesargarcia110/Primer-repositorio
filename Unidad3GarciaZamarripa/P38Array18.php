@@ -20,9 +20,9 @@ echo "FILAS A COLUMNAS";
 echo "<br>";
 for ($j=0;$j<3;$i++)
 { for ($i=0;$i<3;$j++)
-{echo $datos[$i][$j]." ";}
+echo $datos[$i][$j]." ";}
 echo "<br>";
-	}
+	
 
 echo "COLUMNAS INVERSAS";
 echo "<br>";
